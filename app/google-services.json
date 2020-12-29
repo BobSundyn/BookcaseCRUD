@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "658229275907",
+    "firebase_url": "https://qi-apps-1-robert.firebaseio.com",
+    "project_id": "qi-apps-1-robert",
+    "storage_bucket": "qi-apps-1-robert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658229275907:android:5de527913bf561bb2d8d36",
+        "android_client_info": {
+          "package_name": "br.com.bobsundyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658229275907-u88oh78km6kq09q0d0flhml1lu6g57tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTYsVaIpMq0mTj2lFnNclVc5TsIlb-bKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658229275907-u88oh78km6kq09q0d0flhml1lu6g57tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
